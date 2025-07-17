@@ -1,0 +1,12 @@
+site_name: My Knowledge Base
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - DevOps:
+      - CI/CD: devops/cicd.md
+      - Docker: devops/docker.md
+  - Database:
+      - PostgreSQL: database/postgres.md
+      - MySQL: database/mysql.md
+
